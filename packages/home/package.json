@@ -1,11 +1,11 @@
 {
-  "name": "dev-pack",
+  "name": "home",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "zengnanqi <zengnanqi@bananain.com>",
   "homepage": "https://github.com/pategood/lernaDemo#readme",
   "license": "ISC",
-  "main": "lib/dev-pack.js",
+  "main": "lib/home.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,9 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/pategood/lernaDemo/issues"
-  },
-  "dependencies": {
-    "babel-core": "^6.26.3",
-    "main": "^0.0.0"
   }
 }
