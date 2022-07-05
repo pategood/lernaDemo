@@ -1,0 +1,30 @@
+{
+  "name": "dev-pack",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zengnanqi <zengnanqi@bananain.com>",
+  "homepage": "https://github.com/pategood/lernaDemo#readme",
+  "license": "ISC",
+  "main": "lib/dev-pack.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pategood/lernaDemo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/pategood/lernaDemo/issues"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "main": "^0.0.0"
+  }
+}
